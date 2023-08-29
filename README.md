@@ -1,4 +1,4 @@
-This is a HTML web server project:
+This is a HTTP web server project:
 
 myhttpd:                                                       
                                                               
